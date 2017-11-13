@@ -2,7 +2,7 @@
 
 Most of the data can be downloaded here except for the training data.
 The training data can be found at:
-
+https://drive.google.com/file/d/12N3lKB3DYrzr7BIzg__8HrMhTk2B-Xnz/view?usp=sharing
 
 1) To offically get the data you need to register (usually your gmail), on kaggle.com then wait a few minutes
 for either a confirmation text or phone number verification.  (Signing up with gmail is usually the prefered method)
